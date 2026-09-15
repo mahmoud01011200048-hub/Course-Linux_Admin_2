@@ -37,18 +37,4 @@ This repo is designed to bridge theoretical concepts with real-world enterprise 
 * Running, managing, and inspecting rootless containers using Podman.
 * Managing container images, registries, and persistent storage integration.
 
----
 
-## 📂 Repository Structure
-
-```text
-.
-├── Linux_Administrator2_Original_Guide.pdf    # Full original course material
-├── Linux-Admin-Enhanced-Mastery-Guide/         # 6-Part expanded module notes & labs
-│   ├── Part_01_Storage_and_LVM.pdf
-│   ├── Part_02_SELinux_and_Security.pdf
-│   ├── Part_03_Boot_Process_and_Troubleshooting.pdf
-│   ├── Part_04_Automation_and_Scripting.pdf
-│   ├── Part_05_Container_Management.pdf
-│   └── Part_06_System_Tuning.pdf
-└── README.md                                  # Documentation
